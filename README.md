@@ -30,7 +30,7 @@ This is a task management application built using the MERN (Supabase, Express.js
 ## Installation
 
 1. Clone the repository:
-   `git clone https://github.com/Taufiqul7756/Task-Management-NextJS.git`
+   `git clonehttps://github.com/Uttam888/Task-Management_NextJS.git`
 2. Navigate to the project directory:
    `cd client`
 3. Install dependencies:
@@ -45,4 +45,5 @@ For detailed API documentation, refer to the [API Documentation](https://documen
 ## Deployment
 
 The application is deployed on Vercel. You can access it [here](https://task-management-client-three.vercel.app/).
+
 
