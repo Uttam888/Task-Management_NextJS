@@ -38,12 +38,10 @@ This is a task management application built using the MERN (Supabase, Express.js
 4. Start the development server:
    `npm run dev`
 
-## API Documentation
-
-For detailed API documentation, refer to the [API Documentation](https://documenter.getpostman.com/view/12853812/2sA35Jzesu).
 
 ## Deployment
 
 The application is deployed on Vercel. You can access it [here](https://task-management-client-three.vercel.app/).
+
 
 
